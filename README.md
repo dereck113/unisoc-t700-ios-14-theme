@@ -34,9 +34,9 @@ Before applying the UI customization theme, you need a clean custom ROM base ins
 
 ## 📸 Screenshots
 
-| Home Screen | Control Center | System Info |
-| :---: | :---: | :---: |
-| ![Home Screen](screenshots/see.jpeg) | ![Control Center](screenshots/center.jpeg) | ![System Info](screenshots/info.jpeg) |
+| Lock Screen | Home Screen | Control Center | System Info |
+| :---: | :---: | :---: | :---: |
+| ![Lock Screen](screenshots/lock.jpeg) | ![Home Screen](screenshots/see.jpeg) | ![Control Center](screenshots/center.jpeg) | ![System Info](screenshots/info.jpeg) |
 
 ## ⚠️ Disclaimer
 
