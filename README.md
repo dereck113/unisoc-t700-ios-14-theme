@@ -19,7 +19,14 @@ Before applying the UI customization theme, you need a clean custom ROM base ins
 2. **Device:** Tested on Motorola Moto e40 (Unisoc T700).
 3. **Tools Required:** ADB, Fastboot, and custom recovery (TWRP/OrangeFox) if flashing the base ROM.
 
----
+## 📥 Downloads
+
+You can download the latest official release APKs directly from the repository:
+* 👉 [Download APKs & Resources (Releases)](https://github.com/dereck113/unisoc-t700-ios-14-theme/releases)
+
+### Included APKs:
+* **`iLauncher_XR_Ios14.apk`**: Main iOS home screen launcher, icon grid, and widget layout.
+* **`Ios_configuration.apk`**: System configuration and UI modules for authentic iOS look and feel.
 
 ## 📦 Installation & Setup Guide
 
