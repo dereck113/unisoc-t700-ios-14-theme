@@ -32,7 +32,11 @@ Before applying the UI customization theme, you need a clean custom ROM base ins
    * Enable accessibility services if required by the control center or status bar modules.
 4. **Enjoy:** Lock your device and experience the complete iOS transformation!
 
----
+## 📸 Screenshots
+
+| Home Screen | Control Center | System Info |
+| :---: | :---: | :---: |
+| ![Home Screen](screenshots/see.jpeg) | ![Control Center](screenshots/center.jpeg) | ![System Info](screenshots/info.jpeg) |
 
 ## ⚠️ Disclaimer
 
